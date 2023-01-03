@@ -1,5 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlymg)]
+### Hi there 👋
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=onlymg)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlymg)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=onlymg)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=onlymg)
